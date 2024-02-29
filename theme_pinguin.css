@@ -67,7 +67,6 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	---icon: block; /* pinguin icon */
-	--pinguin-icon-url: url('https://svgshare.com/i/13j5.svg'); /* custom icon url */
 	--pinguin-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
