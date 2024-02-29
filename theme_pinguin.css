@@ -2,7 +2,6 @@
 /* customize things here */
 :root {
 	/* top left corner text, all fonts - https://nfld99.github.io/Better-Discord/Font_List.txt*/
-	--corner-text: 'pinguin';
 
 	/* color of status indicators and window controls */
 	--online-indicator: var(--accent-2); /* change to #23a55a for default green */
