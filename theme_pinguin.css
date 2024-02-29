@@ -62,10 +62,11 @@
 	--roundness-s: 12px; /* members, settings inputs */
 	--roundness-xs: 10px; /* channels, buttons */
 	--roundness-xxs: 8px; /* searchbar, small elements */
-	--discord-icon: url('https://i.postimg.cc/FK9rg4Sd/penguin.png');
+	--pinguin-icon-url: url('https://i.postimg.cc/FK9rg4Sd/penguin.png'); /* custom icon url */
+	--discord-icon: none;
 	/* change to block to show, none to hide */
 	---icon: block; /* pinguin icon */
-	--pinguin-icon-size: auto;
+
 
 	/* filter uncolorable elements to fit theme */
 	/* (just set to none, they're too much work to configure) */
