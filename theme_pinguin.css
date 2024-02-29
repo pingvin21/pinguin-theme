@@ -9,7 +9,7 @@
 	font-size: var(--Font-Size)!important;
 	}
 :root {
-	/* top left corner text */
+	/* top left corner text, all fonts - https://nfld99.github.io/Better-Discord/Font_List.txt*/
 	--corner-text: 'pinguin';
 
 	/* color of status indicators and window controls */
