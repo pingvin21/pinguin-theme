@@ -62,7 +62,6 @@
 	--roundness-s: 12px; /* members, settings inputs */
 	--roundness-xs: 10px; /* channels, buttons */
 	--roundness-xxs: 8px; /* searchbar, small elements */
-	--pinguin-icon-url: url('https://i.postimg.cc/FK9rg4Sd/penguin.png'); /* custom icon url */
 	--discord-icon: none;
 	/* change to block to show, none to hide */
 	---icon: block; /* pinguin icon */
