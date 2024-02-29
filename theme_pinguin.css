@@ -1,6 +1,11 @@
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/Yes.css);
 /* customize things here */
-*:not([class*="hljs"]):not(code){
+	}
+	*:not([class*="hljs"]):not(code){
+	font-family: var(--Font-Used)!important;
+	font-style: var(--Font-Style)!important;
+	font-weight: var(--Font-Weight)!important;
+	font-variant: var(--Font-Variant)!important;
 	}
 	.markup:not(code) {
 	font-size: var(--Font-Size)!important;
