@@ -1,17 +1,7 @@
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/Yes.css);
 /* customize things here */
 :root {
-	/* font, change to 'gg sans' for default discord font*/
-	--Font-Used: 'Press Start 2P', cursive;
-	/* https://nfld99.github.io/Better-Discord/Font_List.txt */
-	--Font-Size: 5px ;
-	/* mediumxx-smallx-smallsmalllargex-largexx-largesmallerlargerlengthinitialinherit; */
-	--Font-Style: normal ;
-	/* normalitalicobliqueinitialinherit; */
-	--Font-Weight: 100 ;
-	/* normalboldbolderlighternumberinitialinherit */
-	--Font-Variant: normal ;
-	/* normalsmall-capsinitialinherit */
+
 	}
 	*:not([class*="hljs"]):not(code){
 	font-family: var(--Font-Used)!important;
