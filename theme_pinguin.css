@@ -64,7 +64,7 @@
 	--roundness-xxs: 8px; /* searchbar, small elements */
 	--discord-icon-url: url('https://i.postimg.cc/FK9rg4Sd/penguin.png');
 	/* change to block to show, none to hide */
-	--discord-icon: none; /* discord icon */
+	--discord-icon: yes; /* discord icon */
 	---icon: block; /* pinguin icon */
 	--pinguin-icon-size: auto;
 
