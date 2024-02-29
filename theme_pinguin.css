@@ -672,7 +672,7 @@ button.button_afdfd9 /* small buttons */,
 }
 
 /* custom dm button pinguin icon */
-.childWrapper__01b9c > svg:not(.Linux_tux_circle_logo.svg) {
+.childWrapper__01b9c > svg:not(.favoriteIcon_adf80e) {
 	display: var(--discord-icon);
 }
 .childWrapper__01b9c:has(> svg:not(.Linux_tux_circle_logo.svg))::before {
