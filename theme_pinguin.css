@@ -3,7 +3,6 @@
 *:not([class*="hljs"]):not(code){
 	font-family: var(--Font-Used)!important;
 	font-style: var(--Font-Style)!important;
-	font-weight: var(--Font-Weight)!important;
 	font-variant: var(--Font-Variant)!important;
 	}
 	.markup:not(code) {
